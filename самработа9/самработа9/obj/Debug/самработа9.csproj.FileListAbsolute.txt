@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\самработа9\самработа9\bin\Debug\самработа9.exe.config
+C:\Users\LENOVO\Desktop\самработа9\самработа9\bin\Debug\самработа9.exe
+C:\Users\LENOVO\Desktop\самработа9\самработа9\bin\Debug\самработа9.pdb
+C:\Users\LENOVO\Desktop\самработа9\самработа9\obj\Debug\самработа9.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\самработа9\самработа9\obj\Debug\MainWindow.g.cs
+C:\Users\LENOVO\Desktop\самработа9\самработа9\obj\Debug\App.g.cs
+C:\Users\LENOVO\Desktop\самработа9\самработа9\obj\Debug\самработа9_MarkupCompile.cache
+C:\Users\LENOVO\Desktop\самработа9\самработа9\obj\Debug\самработа9_MarkupCompile.lref
+C:\Users\LENOVO\Desktop\самработа9\самработа9\obj\Debug\MainWindow.baml
+C:\Users\LENOVO\Desktop\самработа9\самработа9\obj\Debug\самработа9.g.resources
+C:\Users\LENOVO\Desktop\самработа9\самработа9\obj\Debug\самработа9.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\самработа9\самработа9\obj\Debug\самработа9.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\самработа9\самработа9\obj\Debug\самработа9.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\самработа9\самработа9\obj\Debug\самработа9.exe
+C:\Users\LENOVO\Desktop\самработа9\самработа9\obj\Debug\самработа9.pdb
